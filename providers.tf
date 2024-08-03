@@ -10,7 +10,6 @@ terraform {
 provider "aws" {
     
     region = "us-east-1"
-    version = "~> 5.0"
     access_key = ""
     secret_key = ""
     #configuration option
